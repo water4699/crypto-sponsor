@@ -1,0 +1,40 @@
+{
+  "pages": {
+    "/page": [
+      "static/chunks/9e883_next_dist_6ea86932._.js",
+      "static/chunks/frontend_app_icon_svg_mjs_6257fccb._.js",
+      "static/chunks/frontend_9bd8068f._.css",
+      "static/chunks/9e883_4ef3c2d1._.js",
+      "static/chunks/9e883_ethers_lib_esm_utils_4ec8eab5._.js",
+      "static/chunks/9e883_ethers_lib_esm_abi_ff328076._.js",
+      "static/chunks/9e883_ethers_lib_esm_transaction_586226df._.js",
+      "static/chunks/9e883_ethers_lib_esm_providers_46cfbd04._.js",
+      "static/chunks/9e883_ethers_lib_esm_dc2ca9e2._.js",
+      "static/chunks/9e883_505e748a._.js",
+      "static/chunks/9e883_7929f571._.js",
+      "static/chunks/9e883_b6dc6ffa._.js",
+      "static/chunks/9e883_@rainbow-me_rainbowkit_dist_1259cf3c._.js",
+      "static/chunks/9e883_@wagmi_core_dist_esm_3874a62d._.js",
+      "static/chunks/9e883_viem__esm_00791fe8._.js",
+      "static/chunks/9e883_ox__esm_5b7a1290._.js",
+      "static/chunks/9e883_@tanstack_query-core_build_modern_cea54569._.js",
+      "static/chunks/9e883_a09e8b73._.js",
+      "static/chunks/frontend_8b251698._.js",
+      "static/chunks/frontend_app_layout_tsx_c11d305c._.js",
+      "static/chunks/9e883_next_dist_client_components_builtin_global-error_e263f49d.js",
+      "static/chunks/frontend_fhevm_internal_mock_fhevmMock_ts_f63774a4._.js",
+      "static/chunks/frontend_064d46a3._.js",
+      "static/chunks/9e883_024b1260._.js",
+      "static/chunks/frontend_app_page_tsx_e263f49d._.js",
+      "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_51deae60._.js",
+      "static/chunks/9e883_next_dist_compiled_react-dom_33d456f8._.js",
+      "static/chunks/9e883_next_dist_compiled_next-devtools_index_e18dabda.js",
+      "static/chunks/9e883_next_dist_compiled_649610a4._.js",
+      "static/chunks/9e883_next_dist_client_af6cb9d5._.js",
+      "static/chunks/9e883_next_dist_0e511d54._.js",
+      "static/chunks/9e883_@swc_helpers_cjs_652634af._.js",
+      "static/chunks/frontend_a0ff3932._.js",
+      "static/chunks/turbopack-frontend_a50d7e93._.js"
+    ]
+  }
+}
