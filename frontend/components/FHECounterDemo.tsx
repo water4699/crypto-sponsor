@@ -13,11 +13,11 @@ import { errorNotDeployed } from "./ErrorNotDeployed";
  *  - "Decrement" button: allows you to decrement the FHECounter count handle using FHE operations.
  */
 export const FHECounterDemo = () => {
-  const [count, setCount] = useState<number | null>(null);
-  const [inputValue, setInputValue] = useState<string>("");
-  const [isIncrementing, setIsIncrementing] = useState(false);
-  const [isDecrementing, setIsDecrementing] = useState(false);
-  const [error, setError] = useState<string | null>(null);
+  const [_count, _setCount] = useState<number | null>(null);
+  const [_inputValue, _setInputValue] = useState<string>("");
+  const [_isIncrementing, _setIsIncrementing] = useState(false);
+  const [_isDecrementing, _setIsDecrementing] = useState(false);
+  const [error, _setError] = useState<string | null>(null);
 
   const { storage: fhevmDecryptionSignatureStorage } = useInMemoryStorage();
   const {
